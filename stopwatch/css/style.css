@@ -8,8 +8,8 @@ body {
 
 .stopwatch { text-align: center }
 .stopwatch-timer {
-  font-size: 76px;
-  font-weight: 100;
+  font-size: 120px;
+  font-weight: 170px;
   line-height: 160px;
   
   margin: 0;
@@ -42,13 +42,13 @@ body {
 
 .btn {
   font-family: inherit;
-  font-size: 25px;
+  font-size: 40px;
   
   display: inline-block;
   
-  width: 82px;
-  height: 82px;
-  margin: 24px;
+  width: 90px;
+  height: 90px;
+  margin: 27px;
   padding: 0;
   
   cursor: pointer;
