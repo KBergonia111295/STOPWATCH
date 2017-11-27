@@ -3,20 +3,20 @@ body {
                'Helvetica Neueu', Helvetica, Arial, sans-serif;
   margin: 0;
   background-color: #d04335;
-  margin-top: 300px;
+  margin-top: 30px;
 
 }
 
 .stopwatch { text-align: center }
 .stopwatch-timer {
-  font-size: 60px;
-  font-weight: 60px;
-  line-height: 70px;
+  font-size: 40px;
+  font-weight: 40px;
+  line-height: 40px;
   
   margin: 0;
   
   border: solid #cecfd0;
-  border-width: 1px 0;
+  border-width: 2px 0;
   background-color: #7380a5;
 }
 
@@ -47,8 +47,8 @@ body {
   
   display: inline-block;
   
-  width: 60px;
-  height: 60px;
+  width: 40px;
+  height: 40px;
   margin: 27px;
   padding: 0;
   
